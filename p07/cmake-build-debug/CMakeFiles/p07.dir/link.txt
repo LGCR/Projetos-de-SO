@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/p07.dir/pingpong-maintask.c.o CMakeFiles/p07.dir/pingpong.c.o CMakeFiles/p07.dir/queue.c.o  -o p07 

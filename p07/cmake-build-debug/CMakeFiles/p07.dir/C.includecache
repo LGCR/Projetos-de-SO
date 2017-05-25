@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/Downloads/Projetos/p07/datatypes.h
+ucontext.h
+-
+
+/home/lucas/Downloads/Projetos/p07/pingpong-maintask.c
+stdio.h
+-
+stdlib.h
+-
+pingpong.h
+/home/lucas/Downloads/Projetos/p07/pingpong.h
+
+/home/lucas/Downloads/Projetos/p07/pingpong.c
+ucontext.h
+-
+stdio.h
+-
+stdlib.h
+-
+datatypes.h
+/home/lucas/Downloads/Projetos/p07/datatypes.h
+pingpong.h
+/home/lucas/Downloads/Projetos/p07/pingpong.h
+queue.h
+/home/lucas/Downloads/Projetos/p07/queue.h
+sys/time.h
+-
+
+/home/lucas/Downloads/Projetos/p07/pingpong.h
+datatypes.h
+/home/lucas/Downloads/Projetos/p07/datatypes.h
+
+/home/lucas/Downloads/Projetos/p07/queue.c
+queue.h
+/home/lucas/Downloads/Projetos/p07/queue.h
+
+/home/lucas/Downloads/Projetos/p07/queue.h
+

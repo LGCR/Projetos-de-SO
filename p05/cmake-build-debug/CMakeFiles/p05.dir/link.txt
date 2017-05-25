@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/p05.dir/pingpong.c.o CMakeFiles/p05.dir/pingpong-preempcao.c.o CMakeFiles/p05.dir/queue.c.o  -o p05 

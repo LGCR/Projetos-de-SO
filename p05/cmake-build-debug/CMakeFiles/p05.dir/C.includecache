@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/datatypes.h
+ucontext.h
+-
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/pingpong-preempcao.c
+stdio.h
+-
+stdlib.h
+-
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/pingpong.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/pingpong.c
+ucontext.h
+-
+stdio.h
+-
+stdlib.h
+-
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/datatypes.h
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/pingpong.h
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/queue.h
+sys/time.h
+-
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/pingpong.h
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/datatypes.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/queue.c
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/queue.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p05/queue.h
+

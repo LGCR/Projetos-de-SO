@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/p06.dir/pingpong.c.o CMakeFiles/p06.dir/queue.c.o CMakeFiles/p06.dir/pingpong-contab-prio.c.o  -o p06 

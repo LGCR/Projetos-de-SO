@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/datatypes.h
+ucontext.h
+-
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/pingpong-contab-prio.c
+stdio.h
+-
+stdlib.h
+-
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/pingpong.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/pingpong.c
+ucontext.h
+-
+stdio.h
+-
+stdlib.h
+-
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/datatypes.h
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/pingpong.h
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/queue.h
+sys/time.h
+-
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/pingpong.h
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/datatypes.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/queue.c
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/queue.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p06/queue.h
+

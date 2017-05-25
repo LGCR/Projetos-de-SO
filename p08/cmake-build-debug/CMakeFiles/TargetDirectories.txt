@@ -1,0 +1,3 @@
+/home/lucas/Downloads/Projetos/p08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/Downloads/Projetos/p08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/Downloads/Projetos/p08/cmake-build-debug/CMakeFiles/p08.dir

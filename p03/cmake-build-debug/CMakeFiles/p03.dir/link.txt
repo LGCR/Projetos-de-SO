@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/p03.dir/pingpong.c.o CMakeFiles/p03.dir/pingpong-dispatcher.c.o CMakeFiles/p03.dir/queue.c.o  -o p03 

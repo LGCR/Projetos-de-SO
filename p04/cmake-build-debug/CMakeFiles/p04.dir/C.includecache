@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/datatypes.h
+ucontext.h
+-
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/pingpong-scheduler.c
+stdio.h
+-
+stdlib.h
+-
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/pingpong.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/pingpong.c
+ucontext.h
+-
+stdio.h
+-
+stdlib.h
+-
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/datatypes.h
+pingpong.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/pingpong.h
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/queue.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/pingpong.h
+datatypes.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/datatypes.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/queue.c
+queue.h
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/queue.h
+
+/home/lucas/Documentos/UTFPR/Sistemas Operacionais/Projetos/p04/queue.h
+

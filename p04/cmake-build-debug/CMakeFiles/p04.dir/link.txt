@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/p04.dir/pingpong-scheduler.c.o CMakeFiles/p04.dir/pingpong.c.o CMakeFiles/p04.dir/queue.c.o  -o p04 
