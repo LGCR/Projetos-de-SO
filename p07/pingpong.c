@@ -192,7 +192,7 @@ void task_exit(int exitCode) {
     if(queue_size((queue_t*) ready_queue) > 0 ) {
         task_switch(&task_dispatcher);
     } else{
-        //task_switch(&task_main);
+        task_switch(&task_dispatcher);
     }
 }
 
